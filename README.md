@@ -1,2 +1,2 @@
 # computer
-Attempt to build a computer from ground up.
+Project attempts to design and build a simple computer architecture.
